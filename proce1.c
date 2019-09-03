@@ -1,5 +1,4 @@
-#include <sys/types.h>
-#include <sys/stat.h>
+#include ZZ#include <sys/stat.h>
 
 
 #define ETH_LOCATION "/sys/class/net/enp0s3/address"
